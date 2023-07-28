@@ -34,14 +34,12 @@ pip install transformers torch pillow requests
 ## Usage
 
 1. Clone the repository and navigate to the project directory.
-2. Run the script `masked_image_modeling.py` to see how the Swin Transformer performs on the masked image modeling task.
+2. Run the notebook to see how the Swin Transformer performs on the masked image modeling task.
 
 ```bash
 python masked_image_modeling.py
 ```
-
-3. The script will fetch an image from a URL, process it using the Swin Transformer image processor, and perform masked image modeling using the SwinForMaskedImageModeling model.
-4. The reconstructed pixel values and loss will be displayed, indicating the quality of the model's predictions.
+3. The reconstructed pixel values and loss will be displayed, indicating the quality of the model's predictions.
 
 ## Example Output
 
