@@ -1,9 +1,9 @@
 # Swin Transformer for Masked Image Modeling
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/swin-transformer-masked-image-modeling.svg?style=social)](https://github.com/yourusername/swin-transformer-masked-image-modeling/stargazers)
-[![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/swin-transformer-masked-image-modeling.svg)](https://github.com/yourusername/swin-transformer-masked-image-modeling)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/swin-transformer-masked-image-modeling.svg?style=social)](https://github.com/inuwamobarak/swin-transformer-masked-image-modeling/stargazers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/swin-transformer-masked-image-modeling.svg)](https://github.com/inuwamobarak/swin-transformer-masked-image-modeling)
 
-![Example](example.jpg)
+![swin_transformer_architecture](https://github.com/inuwamobarak/swin-transformers/assets/65142149/ead6990d-a1c3-4631-89b7-3f7f5d7095b4)
 
 ```markdown
 # Swin Transformer for Masked Image Modeling
@@ -62,6 +62,16 @@ python masked_image_modeling.py
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request.
+
+## My Socials
+
+**LinkedIn**: `https://www.linkedin.com/in/inuwamobarak/`.
+
+**Twitter**: `https://twitter.com/InuwaAbraham`.
+
+**Instagram**: @inuwamobarak
+
+**Facebook**: `https://www.facebook.com/inuwa.mobarak`.
 
 ## License
 
