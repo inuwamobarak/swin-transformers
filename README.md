@@ -1,3 +1,10 @@
+# Swin Transformer for Masked Image Modeling
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/swin-transformer-masked-image-modeling.svg?style=social)](https://github.com/yourusername/swin-transformer-masked-image-modeling/stargazers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/swin-transformer-masked-image-modeling.svg)](https://github.com/yourusername/swin-transformer-masked-image-modeling)
+
+![Example](example.jpg)
+
 ```markdown
 # Swin Transformer for Masked Image Modeling
 
@@ -61,5 +68,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
-Feel free to customize the `README.md` template with any additional information, badges, or images relevant to your project. The above template provides a concise overview of the project, how it works, prerequisites, usage instructions, example output, acknowledgments, contributing guidelines, and license information.
