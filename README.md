@@ -28,7 +28,7 @@ Swin Transformers, short for "Shifted Windows," were introduced in the paper tit
 To run this code, you need the following libraries installed:
 
 - `transformers`: The main library that provides the AutoImageProcessor and SwinForMaskedImageModeling classes.
-- `torch`: The PyTorch library, essential for running the deep learning model and performing tensor computations.
+- `torch`: The PyTorch library, is essential for running the deep learning model and performing tensor computations.
 - `PIL`: The Python Imaging Library, required for image processing.
 - `requests`: For fetching the image from a URL.
 
