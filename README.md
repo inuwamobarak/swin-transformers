@@ -1,6 +1,6 @@
 # Swin Transformer for Masked Image Modeling
 
-[![GitHub stars](https://img.shields.io/github/stars/inuwamobarak/swin-transformer-masked-image-modeling.svg?style=social)](https://github.com/inuwamobarak/swin-transformer-masked-image-modeling/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/inuwamobarak/swin-transformer-masked-image-modeling.svg?style=social)](https://github.com/inuwamobarak/swin-transformers/stargazers)
 [![GitHub repo size](https://img.shields.io/github/repo-size/inuwamobarak/swin-transformer-masked-image-modeling.svg)](https://github.com/inuwamobarak/swin-transformer-masked-image-modeling)
 
 ![swin_transformer_architecture](https://github.com/inuwamobarak/swin-transformers/assets/65142149/ead6990d-a1c3-4631-89b7-3f7f5d7095b4)
